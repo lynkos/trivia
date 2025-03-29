@@ -25,17 +25,13 @@ The following **optional** features are implemented:
 - [ ] User has answer marked as correct or incorrect after submitting choices (alongside their score).
 - [x] Implement a timer that puts pressure on the user! Choose any time that works and auto submit choices after the timer expires. 
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Mapping the categories to their respective IDs was tedious since I had to do it manually. Also had some trouble with `async` loading, race conditions, etc.
 
 ## License
 
