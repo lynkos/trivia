@@ -27,7 +27,11 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+<div>
+    <a href="https://www.loom.com/share/9189a8ffa13c4d1baafc378df6cd5487">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9189a8ffa13c4d1baafc378df6cd5487-98814ea9e86bba9f-full-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
