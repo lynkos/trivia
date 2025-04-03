@@ -1,5 +1,5 @@
 # Project 5 - *Trivia*
-App that challenges users with trivia questions spanning a variety of categories, formats, and difficulties.
+iOS app that challenges users with trivia questions spanning a variety of categories, formats, and difficulties.
 
 ## Features
 - [x] App launches to an Options screen where user can modify the types of questions presented when the game starts. Users should be able to choose:
