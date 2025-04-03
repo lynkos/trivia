@@ -1,44 +1,26 @@
 # Project 5 - *Trivia*
+App that challenges users with trivia questions spanning a variety of categories, formats, and difficulties.
 
-Submitted by: **Kiran Brahmatewari**
-
-**Trivia** is an app that challenges users with trivia questions spanning a variety of categories, formats, and difficulties.
-
-Time spent: **9** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
+## Features
 - [x] App launches to an Options screen where user can modify the types of questions presented when the game starts. Users should be able to choose:
   - [x] Number of questions
   - [x] Category of questions
   - [x] Difficulty of questions
   - [x] Type of questions (Multiple Choice or True False)
 - [x] User can tap a button to start trivia game, this presents questions and answers in a List or Card view.
-  - Hint: For Card view visit your FlashCard app. List view is an equivalent to UITableView in UIKit. Much easier to use!
 - [x] Selected choices are marked as user taps their choice (but answered is not presented yet!)
 - [x] User can submit choices and is presented with a score on trivia game
- 
-The following **optional** features are implemented:
-
-- [ ] User has answer marked as correct or incorrect after submitting choices (alongside their score).
 - [x] Implement a timer that puts pressure on the user! Choose any time that works and auto submit choices after the timer expires. 
+- [ ] User has answer marked as correct or incorrect after submitting choices (alongside their score).
 
-## Video Walkthrough
-
+## Demo
 <div>
     <a href="https://www.loom.com/share/9189a8ffa13c4d1baafc378df6cd5487">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9189a8ffa13c4d1baafc378df6cd5487-98814ea9e86bba9f-full-play.gif">
     </a>
   </div>
 
-## Notes
-
-Mapping the categories to their respective IDs was tedious since I had to do it manually. Also had some trouble with `async` loading, race conditions, etc.
-
 ## License
-
     Copyright 2025 Kiran Brahmatewari
 
     Licensed under the Apache License, Version 2.0 (the "License");
